@@ -1,1 +1,0 @@
-jquery('.editable').edEditMenu('#group1');

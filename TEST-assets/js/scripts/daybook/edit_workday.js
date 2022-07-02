@@ -1,1 +1,0 @@
-jquery('#toggle-is-countable').edSwitch('#is_countable');

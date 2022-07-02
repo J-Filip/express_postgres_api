@@ -1,1 +1,0 @@
-jquery('.ww-action').edEditMenu('#group1');

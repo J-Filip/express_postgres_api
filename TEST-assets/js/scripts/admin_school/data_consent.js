@@ -1,1 +1,0 @@
-jquery('#toggle-data-consent').edSwitch('#data_consent');
